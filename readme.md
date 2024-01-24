@@ -1,0 +1,1 @@
+link zur competition: https://www.kaggle.com/competitions/nlp-getting-started/code
